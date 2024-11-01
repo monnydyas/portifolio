@@ -116,7 +116,7 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50vh;
+    width: 35vh;
 }
 
 .rodape {
@@ -136,6 +136,7 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 70px;
     }
 
     .apresentacao {
@@ -144,6 +145,8 @@ body {
     }
 
     .apresentacao__conteudo {
+        padding: 0% 5%;
         width: auto;
+
     }
 }
